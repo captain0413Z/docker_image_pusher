@@ -1,1 +1,2 @@
-openkbs/jdk11-mvn-py3:v1.2.0
+openkbs/jdk11-mvn-py3:v1.2.0 
+
